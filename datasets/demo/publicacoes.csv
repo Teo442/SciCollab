@@ -1,0 +1,46 @@
+id,titulo,ano,autor_ids
+P01,Computação — estudo 1,2020,A01;A02;A03
+P02,Computação — aplicação 1,2020,A04;A05;A01
+P03,Computação — estudo 2,2021,A02;A03;A01
+P04,Computação — aplicação 2,2021,A05;A06;A02
+P05,Computação — estudo 3,2022,A03;A01;A02
+P06,Computação — aplicação 3,2022,A06;A04;A03
+P07,Computação — estudo 4,2023,A01;A02;A03
+P08,Computação — aplicação 4,2023,A04;A05;A01
+P09,Computação — estudo 5,2024,A02;A03;A01
+P10,Computação — aplicação 5,2024,A05;A06;A02
+P11,Biologia — estudo 1,2020,A07;A08;A09
+P12,Biologia — aplicação 1,2020,A10;A11;A07
+P13,Biologia — estudo 2,2021,A08;A09;A07
+P14,Biologia — aplicação 2,2021,A11;A12;A08
+P15,Biologia — estudo 3,2022,A09;A07;A08
+P16,Biologia — aplicação 3,2022,A12;A10;A09
+P17,Biologia — estudo 4,2023,A07;A08;A09
+P18,Biologia — aplicação 4,2023,A10;A11;A07
+P19,Biologia — estudo 5,2024,A08;A09;A07
+P20,Biologia — aplicação 5,2024,A11;A12;A08
+P21,Engenharia — estudo 1,2020,A13;A14;A15
+P22,Engenharia — aplicação 1,2020,A16;A17;A13
+P23,Engenharia — estudo 2,2021,A14;A15;A13
+P24,Engenharia — aplicação 2,2021,A17;A18;A14
+P25,Engenharia — estudo 3,2022,A15;A13;A14
+P26,Engenharia — aplicação 3,2022,A18;A16;A15
+P27,Engenharia — estudo 4,2023,A13;A14;A15
+P28,Engenharia — aplicação 4,2023,A16;A17;A13
+P29,Engenharia — estudo 5,2024,A14;A15;A13
+P30,Engenharia — aplicação 5,2024,A17;A18;A14
+P31,Ciências Sociais — estudo 1,2020,A19;A20;A21
+P32,Ciências Sociais — aplicação 1,2020,A22;A23;A19
+P33,Ciências Sociais — estudo 2,2021,A20;A21;A19
+P34,Ciências Sociais — aplicação 2,2021,A23;A24;A20
+P35,Ciências Sociais — estudo 3,2022,A21;A19;A20
+P36,Ciências Sociais — aplicação 3,2022,A24;A22;A21
+P37,Ciências Sociais — estudo 4,2023,A19;A20;A21
+P38,Ciências Sociais — aplicação 4,2023,A22;A23;A19
+P39,Ciências Sociais — estudo 5,2024,A20;A21;A19
+P40,Ciências Sociais — aplicação 5,2024,A23;A24;A20
+P41,Dados e biodiversidade,2022,A01;A07
+P42,Sensores ambientais,2023,A08;A13
+P43,Tecnologia e sociedade,2024,A14;A19
+P44,Nota individual,2023,A25
+P45,Estudo individual,2024,A26

@@ -1,0 +1,665 @@
+id,nome,areas
+A5000120156,Thais Lemos Duarte,Social Sciences
+A5000564533,Patrick J. Bourdeau,Medicine
+A5000580059,Javier Vadell,Social Sciences
+A5000808545,Caroline Oliveira da Silva,Medicine
+A5000966578,João Marcos Oliveira‐Silva,Agricultural and Biological Sciences
+A5001263077,Thais Augusta Maia,"Biochemistry, Genetics and Molecular Biology"
+A5001402937,Alexandre de Araújo Gomes Júnior,"Business, Management and Accounting"
+A5001477354,Armando Sérgio de Aguiar Filho,Medicine
+A5001763703,Henrique Barçante,Psychology
+A5002072987,Ghaspar Gomes de Oliveira Alves Francisco,Medicine
+A5002191079,Gætano Oliva,Medicine
+A5002342623,Juliana Gonzaga Jayme,Social Sciences
+A5002488034,Matheus Melo Pithon,Dentistry
+A5002816670,Fawn T. Ngo,Social Sciences
+A5002950248,Jivanildo Pinheiro Miranda,Agricultural and Biological Sciences
+A5003130788,Ana Luisa de Figueiredo Guimarães,Social Sciences
+A5003147125,Marina H. L. Duarte,Agricultural and Biological Sciences;Physics and Astronomy
+A5003414656,Davi Teixeira Poncio Vita,Medicine
+A5003626810,Marcos Edmar Ramos Alvares da Silva,Social Sciences
+A5003797136,Gilberto Corso,Physics and Astronomy
+A5003799695,Elisangela Pinheiro Pechim Soares,Social Sciences
+A5003891787,Alfonso Juventino Chay‐Canul,Medicine
+A5004102168,Murillo Afonso Lessa,Medicine
+A5004169943,Newton Garcia Araujo,Social Sciences
+A5004547835,Josué Olímpio dos Santos,Engineering
+A5004683633,Samara Atanielly Rocha,Medicine
+A5004872037,Juan Martín Palomo,Dentistry
+A5004983434,Humberto Elias Garcia Lopes,"Business, Management and Accounting"
+A5005048873,Gustavo Henrique Nazareno Fernandes,Engineering
+A5005105925,Gabriela Palermo Correia Domingues,Immunology and Microbiology
+A5005310592,Francisco Cornelio Freire Rodrigues,Arts and Humanities
+A5005317219,Eliziane Garcia de Oliveira,Physics and Astronomy
+A5005394715,Cádmo Dias,Engineering
+A5005471553,Vagner Miranda da Conceição,Social Sciences
+A5005551001,Jane C. F. Oliveira,Agricultural and Biological Sciences
+A5005552499,José Alves-Gomes,Physics and Astronomy
+A5005600433,Luane S. Ferreira,Physics and Astronomy
+A5005633187,Júlia Calvo,Arts and Humanities
+A5005652888,Patrícia Bernardes,Decision Sciences
+A5005663948,Silvani Verruck,Agricultural and Biological Sciences
+A5006060028,Claysson Bruno Santos Vimieiro,Engineering
+A5006109126,Gabriel Juan de Oliveira Cunha,Arts and Humanities
+A5006435227,Bruno Marinho Gonçalves,Medicine
+A5006529887,Aryvelto Miranda Silva,Dentistry
+A5006648701,Tresor Mbiya Nsumbu,Engineering
+A5007263468,Marco Antônio Alves Carneiro,Medicine
+A5007265087,José Rubens Gonçalves Carneiro,Engineering
+A5007298609,João Leite Ferreira Neto,Psychology
+A5007492538,Sônia Wan Der Maas Rodrigues,Psychology
+A5007594926,Pierre Faux,"Biochemistry, Genetics and Molecular Biology"
+A5007788874,Helle Alsted Søndergaard,"Business, Management and Accounting"
+A5008225907,Anderson Oliveira do Carmo,"Biochemistry, Genetics and Molecular Biology"
+A5008584725,Natália Trovo Garcia,"Biochemistry, Genetics and Molecular Biology"
+A5008634480,Flávia Vieira de Freitas,Medicine
+A5008982204,Marcos Ribeiro Botelho,Engineering
+A5008986211,Tânia Toledo de Oliveira,Medicine
+A5008999996,Ludmila Mendonça Lopes Ribeiro,Social Sciences
+A5009191739,Marina da Silva Passarelli,Medicine
+A5009256503,Nathália Lipovetsky e Silva,Social Sciences
+A5009301179,Jéssica Ribeiro Salgado Costa,Medicine
+A5009512658,Alecir Antônio Maciel Moreira,Environmental Science
+A5009531230,Rui Gabriel Souza,Engineering
+A5009556815,Raquel P. F. Guiné,Agricultural and Biological Sciences
+A5009777677,Gustavo Reis Machado,Social Sciences
+A5010159715,Carolina Gama Arndt,Medicine
+A5010185703,Joelton Carneiro de Lima,Social Sciences
+A5010282388,Eduardo José dos Reis Dias,Agricultural and Biological Sciences
+A5010370335,Renato Carvalho de Oliveira,Social Sciences
+A5010375003,Cláudia Roberta Barros Cabral,Psychology
+A5010426463,Attílio Fernandes De Moro,Medicine
+A5010495323,Maria Eduarda Torres Briante,Psychology
+A5010542174,Silvana Alves de Oliveira,Social Sciences
+A5010861275,Fernanda Maria Vendrusculo,Medicine
+A5011846081,Gemima Santos Arcanjo,Environmental Science
+A5011964384,Amanda De Araujo Rodrigues Lira,"Business, Management and Accounting"
+A5011997557,Patrícia Lemos Bueno Fontes,Medicine
+A5012514273,Carla Carvalho Virgílio,Dentistry
+A5012823463,Hemanuelle Gomes Venceslau,Social Sciences
+A5012924910,Giovani Clark,Social Sciences
+A5013011523,Mariana Schimming de Lima,Medicine
+A5013172010,Laia Solano‐Gallego,Medicine
+A5013288661,Giordani Santos Silveira,Dentistry
+A5013755419,Victor Guilherme Pereira da Silva Marques,Social Sciences
+A5013768777,Paula Guimarães Simões,Social Sciences
+A5013964204,Guilherme Castro,"Business, Management and Accounting"
+A5014052943,Paulo Henrique Ribeiro Fernandes Almeida,Medicine
+A5014074703,Cleiterson Rezende de Sá,Dentistry
+A5014149501,Andressa de Paula Silva,Medicine
+A5014494159,Carolina Rodrigues dos Santos,Environmental Science
+A5014525453,Guilherme Augusto Alves de Oliveira,Dentistry
+A5014555379,Jackson Souza Silva,Agricultural and Biological Sciences
+A5014566568,Raiane Machado Maia,Dentistry
+A5014576010,Amilson Carlos Zanetti,Computer Science
+A5015046171,Lira Fernandes Sales,Medicine
+A5015108768,Larissa Teixeira Neves,Medicine
+A5015164607,Walter Melo,Psychology
+A5015244722,Juliana Álvares-Teodoro,Medicine
+A5015452859,Querlem Saraiva,Engineering
+A5015554831,Vanessa Andrade de Barros,Social Sciences
+A5015964409,Maria Virgínia Petry,Agricultural and Biological Sciences
+A5016121713,Ana Camila Moreira,Social Sciences
+A5016156540,Diogo Joffily,Veterinary
+A5016369633,Thiago Maia-Carneiro,Agricultural and Biological Sciences
+A5016489162,Hugo Geraldo Perdigão e Vieira,Dentistry
+A5016549935,Caio Cesar Souza,Medicine
+A5016562655,Maria Laura do Amparo Delfino,Social Sciences
+A5016723180,Gabriel Augusto Monteiro,Agricultural and Biological Sciences
+A5016840883,Laura Furletti Santiago,Engineering
+A5016890301,Pietro Burgarelli Romaneli de Oliveira,Medicine
+A5017080878,Tamires Diniz,Social Sciences
+A5017474614,Thaís Lima da Silva,Medicine
+A5018300146,Tércio Apolinário‐Souza,Medicine
+A5018538994,Marcella Barbosa Miranda Teixeira,Social Sciences
+A5018924665,Ana Laura Mendonça Almeida Magalhães,Mathematics
+A5019143535,Vicente Tadeu Lopes Buono,Engineering
+A5019167038,Lucas Afonso Sepulveda Alves,Social Sciences
+A5019186490,Jennifer Juli Matias da Silva,Social Sciences
+A5019365475,Felipe Leite Neto,Medicine
+A5019514983,Raquel Tolentino Dornelas Alves,Dentistry
+A5019575981,Célia Raquel Quirino,Medicine
+A5020057547,Priscilla Sena Souza Luz Campos,Medicine
+A5020097549,Silvana Daflon Castricini,Medicine
+A5020199348,Juliana Alves dos Reis,Medicine
+A5020347271,Sílvia Dantas Cangussú,Medicine
+A5020444334,Mário Lúcio Quintão Soares,Social Sciences
+A5020455298,Francisco Haas,Social Sciences
+A5020518847,Ana Luiza Moreira Mineiro Drummond,Social Sciences
+A5020534208,Bruno de Morais Cury,Psychology
+A5020700204,Laura Antônio Lima,Social Sciences
+A5020998350,Leônia Cavalcante Teixeira,Psychology
+A5021274042,Armindo dos Santos de Sousa Teodósio,Social Sciences
+A5021286323,Ione Aparecida Neto Rodrigues,Social Sciences
+A5021327230,Maria Ignez Costa Moreira,Social Sciences
+A5021547042,Cristiane Rodrigues de Souza,Social Sciences
+A5021817085,Natalia Corrêa Pereira,Medicine
+A5021905480,Fabrício Ziviani,"Business, Management and Accounting"
+A5022504510,Luciana Teixeira de Andrade,Social Sciences
+A5022517584,Felipe de Souza Abreu,Engineering
+A5022567339,Francisco Thiago Paiva Monte,Social Sciences
+A5022669890,Julia Poloniato Tesche Oliveira,Social Sciences
+A5022689508,Gisele Regina Winck,Agricultural and Biological Sciences
+A5022732590,Bárbara Caroline Ricci,Environmental Science
+A5023910103,Robert John Young,Agricultural and Biological Sciences
+A5023960158,A.C.B. Teixeira,Agricultural and Biological Sciences
+A5024172188,Elenice de Fátima Souza Capelário,Social Sciences
+A5024305693,José Freitas Siqueira Jr,Dentistry
+A5024619410,Juliana Alves Assis,Social Sciences
+A5024679476,Thalita Karla Flores Cruz,Medicine
+A5024872417,Rennan Faria Krüger Thamay,Social Sciences
+A5025016238,Yuri Abner Rocha Lebron,Environmental Science
+A5025054904,Ricardo Lopes Dias da Costa,Medicine
+A5025072808,Alessandra Maciel Almeida,Medicine
+A5025425944,Marcelo Diniz Monteiro de Barros,Social Sciences
+A5025512496,Caio Tavora Coelho da Costa Rachid,Dentistry
+A5025587864,Thaís Oliveira Cordeiro,Dentistry
+A5025839671,Luigi Gradoni,Medicine
+A5025878509,Larissa Shirley Gomes Lima,Medicine
+A5026259536,Jailson Antônio Ribeiro Viana,Computer Science
+A5026610703,Emilly Nara Alves Reis,Medicine
+A5026615214,Norberto Martins,Engineering
+A5026643828,Cláudia Aparecida Avelar Ferreira,Social Sciences
+A5026821861,Ana Clara Felipe Magalhães,Immunology and Microbiology
+A5027134945,Eduardo José Rodrigues De Souza,Engineering
+A5027162156,Geraldo Wilson Fernandes,Agricultural and Biological Sciences
+A5027343774,Almeida Túlio Fernandes de,Medicine
+A5027493261,Luiz Carlos Sureki,Social Sciences
+A5027887706,Anna Sophia Fuzaro Gonçalves,Medicine
+A5028210032,Lucas Wan Der Maas,Health Professions
+A5028401812,Aline Cristina da Silva Duarte,Medicine
+A5028714062,Thiago Martins Meira,Dentistry
+A5029152090,Millena Rodrigues Teixeira,Psychology
+A5029286550,Lívia Oliveira Cândido,Medicine
+A5029445257,Thales B. C. Silva,Medicine
+A5029538886,Jean C.P. Oliveira,"Biochemistry, Genetics and Molecular Biology"
+A5029581139,Ana Cristina de Sousa van Stralen,Health Professions
+A5030038195,Isabella Sousa Corrêa,Dentistry
+A5030219218,Paulo Cézar Tostes de Campos Júnior,Medicine
+A5030329421,William Luiz Fernandes,Engineering
+A5030684126,Douglas Abreu da Rocha,Medicine
+A5030828485,Andréa Poleto Oltramari,Social Sciences
+A5030831498,V. H. P. DINIZ,Dentistry
+A5031104676,Jorge Pamplona Pagnossa,Agricultural and Biological Sciences
+A5031126835,Kênia Maria Pereira Soares de Toubes,Dentistry
+A5031275981,Patrícia Becker,"Business, Management and Accounting"
+A5031384453,Sthéfano Bruno Santos Divino,Medicine
+A5031546472,Marielle Mara da Silva,Environmental Science
+A5031577971,Sílvia Goulart Curi,Medicine
+A5031827602,Aurélia Neves,Social Sciences
+A5031976861,Guilherme Ribeiro Valle,Agricultural and Biological Sciences
+A5032133335,Marcos W. Rodrigues,Social Sciences
+A5032277605,Luanna Rodrigues Leite,Medicine
+A5032475096,Ana Flávia Silva Mesquita,Social Sciences
+A5032624622,Clemente Nobrega,Health Professions
+A5032678618,Greta Rubinich,"Economics, Econometrics and Finance"
+A5032962490,João Paulo Heinzmann‐Filho,Medicine
+A5033024010,Gabriela de Alcântara Moura,Environmental Science
+A5033060975,Matheus De Abreu Costa Souza,Social Sciences
+A5033184317,Gilmar Cordeiro da Silva,Engineering
+A5033842389,Ana Carolina Maciel de Assis Chagas,Health Professions
+A5033895331,Mara Cíntia Kiefer,Agricultural and Biological Sciences
+A5033987951,Caio Felix,Decision Sciences
+A5033996534,Isabela Gonçalves Almeida,Medicine
+A5034066320,Magner Miranda de Souza,Social Sciences
+A5034070608,Andrízia Gomes Pereira,Medicine
+A5034225572,Marcelo de Sousa Balbino,Social Sciences
+A5034290033,Christine Anne Petersen,Medicine
+A5034691494,Laura Palazi Amorim,Social Sciences
+A5034779027,Jakeline Souza Diniz,Psychology
+A5034976061,Waltair Mota Filho,Medicine
+A5035301562,Jorge Luiz Humberto,Medicine
+A5035341763,Gabriela Oliveira da Silva,Medicine
+A5035473204,R. V. Marra,Agricultural and Biological Sciences
+A5035499274,Carla Maia,Medicine
+A5035593122,Ivandson Praeiro de Sousa,Physics and Astronomy
+A5035852726,Izadora Gabriele dos Santos Oliveira,Social Sciences
+A5035857707,Natália Evangelista Campos,Medicine
+A5036095823,Renata Santoro de Sousa-Lima,Agricultural and Biological Sciences;Physics and Astronomy
+A5036191852,Matheus Pereira Libório,Decision Sciences;Social Sciences
+A5036225613,F. H. Hatano,Agricultural and Biological Sciences
+A5036258292,Victor De Matos Nascimento,Environmental Science
+A5036594519,Flávio Camarota,Agricultural and Biological Sciences
+A5036707631,J.A.N. Riveros,Agricultural and Biological Sciences
+A5036807440,Maíra Lobato,Social Sciences
+A5036870363,RIVELINO DIAS DE ANDRADE,Medicine
+A5037053298,Allan Guilherme Alcântara Trentini,Medicine
+A5037367909,Francisco de Assis Acúrcio,Medicine
+A5037731088,Ester Moraes D'Avila,Social Sciences
+A5037774364,Maria Eduarda de Oliveira Rodrigues,Medicine
+A5037844526,Murilo Rezende Paula,Medicine
+A5037917449,Aline De Freitas Fernandes,Arts and Humanities
+A5037967470,Cássio Riccetto,Medicine
+A5038122757,Bruno Garcia Vinhola,Social Sciences
+A5038320912,Fabíola de Oliveira Paes Leme,Agricultural and Biological Sciences
+A5038369299,Danúbia Godinho Zanetti,Psychology
+A5038525959,Clara Mariana Gonçalves Lima,Agricultural and Biological Sciences
+A5038638348,Geraldine Marcelle Moreira Braga Rosas Duarte,Social Sciences
+A5038811708,Laureane Nascimento Aparecida Nascimento,Social Sciences
+A5038839906,Augusto Vinicius de Oliveira,Social Sciences
+A5038909894,Maira Luísa Neiva da Silva,Medicine
+A5039054505,Gisele Lôbo‐Hajdu,"Biochemistry, Genetics and Molecular Biology"
+A5039124023,Márcio Vinícius Fagundes Donadio,Medicine
+A5039218175,Cristina Almeida Magalhães,Mathematics
+A5039233835,Tadeu J. Guerra,Agricultural and Biological Sciences
+A5039579188,Cátia Moura Militão,Agricultural and Biological Sciences
+A5039635990,Jessica da Silva Oliveira,Medicine
+A5039652267,Bruno Brentan,Engineering
+A5040059282,Ana Gabriela Damasceno,Veterinary
+A5040610553,Suzanne Érica Nóbrega Correia,"Business, Management and Accounting"
+A5040644682,Ramakrishna Govindu,Social Sciences
+A5040690134,Solange Maria do Carmo,Arts and Humanities
+A5040812994,Jason G. Taylor,Medicine
+A5040916659,Stéphanie Quadros Tonelli,Dentistry
+A5040999480,Duval Magalhães Fernandes,Social Sciences
+A5041367155,Cláudia Karina Barbosa de Vasconcelos,Environmental Science
+A5041416885,Tatiane Caetano Fernandes de Lima,Engineering
+A5041458225,Robert Matthew Love,Dentistry
+A5041779336,Kênia Coutinho,Medicine
+A5041851858,Davor Vrcibradic,Agricultural and Biological Sciences
+A5041993714,Daniel Marangon Duffles Teixeira,Social Sciences
+A5042643302,Marcia Maria Fernandes de Oliveira,Social Sciences
+A5042857639,Celi Scalon,Social Sciences
+A5042900588,Felipe Gouvêa Pena,Social Sciences
+A5043153283,Mariana Alves Lima,Medicine
+A5043398284,Norton Carlos de Paula Bezerra,Engineering
+A5043504172,Omar Ribeiro Santos,Dentistry
+A5043516198,Héctor Javier Narváez,Medicine
+A5043952577,Elhadji Cheikh Talibouya Ba,Engineering
+A5044119144,Flávia Magalhães Freitas Ferreira,Medicine
+A5044166089,Juliane Pereira‐Ribeiro,Agricultural and Biological Sciences
+A5044380453,Lenise Maria Ribeiro Ortega,Arts and Humanities
+A5044736830,Evanguedes Kalapothakis,"Biochemistry, Genetics and Molecular Biology"
+A5044781792,Gustavo Ferreira Pedrosa,Medicine
+A5044803305,Guadalupe Miró,Medicine
+A5044890469,Davidson P. Campos,"Biochemistry, Genetics and Molecular Biology"
+A5044966081,Ann Honor Mounteer,Environmental Science
+A5045454093,Pablo Moreno Fernandes,Social Sciences
+A5045493864,Romerito Valeriano da Silva,Social Sciences
+A5045633179,Regina de Paula Medeiros,Arts and Humanities
+A5045642453,Cláudio Eduardo Resende Alves,Social Sciences
+A5045732790,Marina Gurgel Simões,Medicine
+A5045798791,Vitor Ferreira Vieira,Engineering
+A5046062121,Rodrigo César Ribeiro Diniz,Medicine
+A5046401710,Davi Casale Aragon,Health Professions
+A5046440221,Lívia Lovato Pires de Lemos,Medicine
+A5046491448,Cristiana Leite Carvalho,Health Professions
+A5046666165,Paulo Umberto Stumpf,Social Sciences
+A5046736015,Paulo Isaías Seraidarian,Dentistry
+A5046841609,Rafaella Luizetto Davanço,Medicine
+A5046844617,Camila Maciel de Oliveira,Health Professions
+A5047010731,Filipe Dantas‐Torres,Medicine
+A5047267129,Mara Marçal Sales,Medicine
+A5047299992,Magno Federici Gomes,Social Sciences
+A5047743648,T. C. SILVA,Medicine
+A5047786769,Rodolfo Andrade de Gouveia Vilela,Engineering
+A5047845457,Isabela de Pádua Pereira Bessa,Medicine
+A5047962956,Ana Paula Souza Lima,Nursing
+A5048389660,Gabriela Lanza De Castro Pereira,Social Sciences
+A5048406914,Rodrigo Rodrigues Amaral,Dentistry
+A5048437524,Cristiane Neri Nobre,Social Sciences
+A5048439655,Nicole Sberse Morás,Social Sciences
+A5048943948,Ingrid Menz,Medicine
+A5049120075,Domenico Otranto,Medicine
+A5049191706,Francis Henrique Nascimento,Medicine
+A5049347343,José Roberto Beretta Paiano De Oliveira,Medicine
+A5049573876,Priscila Campolina de Sá Campello,Arts and Humanities
+A5049675624,João Pedro Matos Uchôa,Medicine
+A5049848106,Andreza Mara da Fonseca,Social Sciences
+A5049867457,Cristiano Mendes,Social Sciences
+A5049989479,Maria Carmem Martinez Borges,Social Sciences
+A5050285503,Evanirso da Silva Aquino,Medicine
+A5050344804,Ramon Silva Leite,"Business, Management and Accounting"
+A5050436570,Cristiano Balbino da Silva,Social Sciences
+A5050869836,E. Bittencourt,Agricultural and Biological Sciences
+A5051039537,Fabiana Cristina Komesu,Social Sciences
+A5051277854,Emerson Piantino Dias,Social Sciences
+A5051278361,Fábio Fernandes Borém Bruzinga,Dentistry
+A5051740034,Rubiane Bakalarczyk Matoso,Social Sciences
+A5051868817,Johan Konings,Arts and Humanities
+A5052134940,André Junqueira Caetano,Social Sciences
+A5052296485,Angélica da Silva Vasconcellos,Agricultural and Biological Sciences
+A5052470963,Alana Silva da Silveira,Agricultural and Biological Sciences
+A5052553999,Cristina Almeida Cunha Filgueiras,Social Sciences
+A5053085891,Eduardo Henrique de Oliveira Barbosa,Social Sciences
+A5053280981,Letícia Zoccolaro Oliveira,Agricultural and Biological Sciences
+A5053327007,Sydnei Magno da Silva,Medicine
+A5053489393,Rosana Rodrigues da Cruz,Social Sciences
+A5053515800,Diego Boaventura Amaral,Engineering
+A5053557181,Raquel Parreiras Ferreira,Dentistry
+A5053731747,Marielle Neiva da Silva,Medicine
+A5053916389,Paulo Sérgio Martins,Engineering
+A5053973593,Brenner Matheus Lara Barbosa,Engineering
+A5054093959,André Furugen Cesar de Andrade,Medicine
+A5054255147,Jonathan Félix de Souza,Arts and Humanities
+A5054346519,Paula Cabral Eterovick,"Biochemistry, Genetics and Molecular Biology"
+A5054524307,Diego Sebastião de Deus,Social Sciences
+A5054950181,Flávio Ricardo Manzi,Dentistry
+A5055102768,Carolina Soares,Social Sciences
+A5055184349,Nilma Coelho,Social Sciences
+A5055579512,Ana Karina de Carvalho Oliveira,Social Sciences
+A5055940346,Bárbara F. Cavalcante,Environmental Science
+A5056070400,Gustavo Meirelles,Engineering
+A5056649653,Mariana Veríssimo,Arts and Humanities
+A5056686523,Luis Enrique Zárate,Decision Sciences;Social Sciences
+A5056717497,Ingrid Silveira de Almeida,Medicine
+A5056728240,Erick Miranda Souza,Dentistry
+A5056735486,Elis Miranda Mau Godinho,Medicine
+A5056735970,Valeria Penzin Goulart,Health Professions
+A5056921521,Anna Gabriella Guimarães Oliveira,Dentistry
+A5056924257,Helena Godoy Bergallo,Agricultural and Biological Sciences
+A5057019567,Pedro M. Cassemiro,"Biochemistry, Genetics and Molecular Biology"
+A5057067862,Gisleule Maria Menezes Souto,Social Sciences
+A5057092186,Rafisah Sekeff Simão Alencar,Medicine
+A5057258977,Luís Henrique Eloy e Silva,Arts and Humanities
+A5057431424,Sally Joyce Reis,Social Sciences
+A5057538290,João César de Freitas Fonseca,Medicine
+A5057877856,Thiago Carlos Rabelo,Engineering
+A5057901967,Kolawole Banwo,Agricultural and Biological Sciences
+A5058335257,Geisla Teles Vieira,Medicine
+A5058406385,Oscar Mario Antelo,Dentistry
+A5058464342,Carolina Maria Mota-Santos,"Business, Management and Accounting;Social Sciences"
+A5058500131,Cláudia Satiko Takemura Matsuba,Nursing
+A5058640709,Antonia Sônia A.C. Diniz,Energy
+A5058985058,Ildeu Andrade,Dentistry
+A5059062961,Gabriela Bandasz Werle,Agricultural and Biological Sciences
+A5059083862,Adriana Almeida do Carmo,Social Sciences
+A5059297343,Fabiana Cristina Pimenta,Health Professions
+A5059422083,Isabela Pimenta Sanna,Neuroscience
+A5059466340,Joice Laís Pereira,Social Sciences
+A5059630576,Luiz Henrique Particelli,Medicine
+A5059784293,Gad Baneth,Medicine
+A5059816114,Louise de Oliveira Salvador,Medicine
+A5060384925,Márcia Farsura de Oliveira,Arts and Humanities
+A5060669084,Miriam Pardini Gomes,Medicine
+A5060804463,Letícia de Paula Santos,Medicine
+A5060896112,Fabrício Rodrigues dos Santos,"Biochemistry, Genetics and Molecular Biology"
+A5061050785,Magali Reis,Arts and Humanities
+A5061125692,Maria Rita Lima Lopes,Dentistry
+A5061177417,Stela Maria Fernandes Marques,Computer Science;Social Sciences
+A5061368612,Davi Augusto Santana de Lelis,Social Sciences
+A5061414267,Carolina Coelho Francisco Rosa,Arts and Humanities
+A5061960821,Izabella Lucas de Abreu Lima,Dentistry
+A5062225938,Samuel da Silva,Health Professions
+A5062445250,Ricardo Santiago Teixeira,Social Sciences
+A5062446261,Luana dos Santos Costa,Social Sciences
+A5062678626,Alessandra Sampaio Chacham,Arts and Humanities
+A5062835091,Orlando Motohiro Tanaka,Dentistry
+A5063662303,Carla C. Siqueira,Agricultural and Biological Sciences
+A5063859802,Fábio Martins de Oliveira,Social Sciences
+A5064189412,Simone Aparecida Simões Rocha,Social Sciences
+A5064203504,Gabriela Braga Rodrigues,Medicine
+A5064240475,Verônica Macário de Oliveira,"Business, Management and Accounting"
+A5064261392,Kênio Barros de Ávila Nascimento,Social Sciences
+A5064313752,Lara Maria Cruz Torres,Medicine
+A5064811540,Luís Cândido Pinto da Silva,Dentistry;Medicine
+A5065033001,Fernanda Aparecida da Mata Abreu,Social Sciences
+A5065167037,Camila Vitória Sousa Marcos,Medicine
+A5065215666,Bárbara Ingrid de Souza Silva,Medicine
+A5065269446,Monique Soares Leite,Social Sciences
+A5065445806,Cédric Fluckiger,Social Sciences
+A5065805378,Flávio Senra,Arts and Humanities
+A5065859692,Mércia Cardoso de Souza,Social Sciences
+A5065942179,Maria Grazia Pennisi,Medicine
+A5066087259,Vanina Costa Dias,Social Sciences
+A5066228961,Victor Rezende Moreira,Environmental Science
+A5066301502,Orin Courtenay,Medicine
+A5066713541,Leda de Oliveira,Health Professions
+A5066731255,Míriam Cristina Santos Amaral,Environmental Science
+A5066763853,Gabriel Guimarães Alexandre,Social Sciences
+A5066880591,Luís Cardoso,Medicine
+A5066978972,Mercedes Balcells,Health Professions
+A5067006319,Sandro Laudares,Social Sciences
+A5067036168,Rafael Rodrigues de Castro,Social Sciences
+A5067173863,Mizael Siqueira de Araujo,Medicine
+A5067476484,Rossana Viégas Sena,Psychology
+A5067765747,Rafael Chaves da Cunha Vieira,Engineering
+A5067994863,Luiza Borcony Bolognese,Health Professions
+A5068331887,Luciano Matos Queiroz,Environmental Science
+A5068585026,João Victor Vieira Lima,Medicine
+A5068973200,Vítor Geraldi Haase,Medicine
+A5069140782,Paulo Márcio Reis Santos,Social Sciences
+A5069392546,Paula Cristina Pelli Paiva,Dentistry
+A5069473574,Carlos Frederico Duarte Rocha,Agricultural and Biological Sciences
+A5069612981,Anderson Silva José,Engineering
+A5069614673,Joaquín Izquierdo,Engineering
+A5069686855,Ingrid Campos,Medicine
+A5069908403,Lucas Túlio de Lacerda,Medicine
+A5070305455,Angélica Cidália Gouveia dos Santos,Decision Sciences
+A5070357353,Marcelo Lopes Silva,Dentistry
+A5070571842,Marina D’Lara Siqueira Santos,Social Sciences
+A5070614132,José E. Santos-Júnior,"Biochemistry, Genetics and Molecular Biology"
+A5070911986,Roberto Zagury,Health Professions
+A5071266318,Karen Caroline Vasconcelos Queiroz,Medicine
+A5071481232,Lucilaine Valéria de Souza Santos,Environmental Science
+A5072190306,Carlos Henrique Nery Costa,Medicine
+A5072208257,Fernanda de Pádua Cardoso Alves Pereira,Social Sciences
+A5072812835,Roberta da Cruz Piuco,Agricultural and Biological Sciences
+A5072863251,Guilherme Augusto Corrêa Rabelo,Engineering
+A5073087443,Raphael Rocha Wenceslau,Agricultural and Biological Sciences
+A5073469360,Rafael Pereira da Mata Santos,Dentistry
+A5074151561,Vânia Paula de Carvalho,Medicine
+A5074447140,André Alves Elias,Medicine
+A5074491906,J.H.W. Diniz,Agricultural and Biological Sciences
+A5074689612,Luiz Cláudio Oliveira Alves de Souza,Medicine
+A5074889139,Arthur Diniz Vial,Dentistry
+A5074953852,Paulo Henrique Basílio Santana,Social Sciences
+A5075378961,Fernanda Ágata Silva,Medicine
+A5075482005,Ana Luiza Lara de Araújo Burcharth,"Business, Management and Accounting"
+A5075561151,Alexandre da Rocha Bozzi,Medicine
+A5075592943,Haroldo Neves de Paiva,Dentistry
+A5075622653,Isaura Mourão Generoso,Social Sciences
+A5075645524,Conrado A. B. Galdino,Agricultural and Biological Sciences
+A5075782378,Abdu Aldarhami,Agricultural and Biological Sciences
+A5075823273,Thaís Moreira Martins da Costa,Medicine
+A5076061314,Luana Gisele Gonzaga,Agricultural and Biological Sciences
+A5076072131,Rodrigo Fagundes Braga,Agricultural and Biological Sciences
+A5076106600,Vívian Cândido Rodrigues,"Business, Management and Accounting"
+A5076304807,Lawrence Lee Kazmerski,Energy
+A5076529941,Gabriel Almeida Paes Humberto,Medicine
+A5076582078,Anna Karoline Lopes Rocha,Medicine
+A5076979179,Roberta Andrade e Barros,Medicine
+A5077154177,Rafael Cerqueira Castro de Souza,"Biochemistry, Genetics and Molecular Biology"
+A5077880004,Vítor Márcio Ribeiro,Medicine
+A5078169813,Júlio César Benjamim Moreira Silva,Medicine
+A5078199814,Darlon Martins Lima,Dentistry
+A5078442060,Camila G. Dergan,"Biochemistry, Genetics and Molecular Biology"
+A5078736594,Adinan Nogueira,Social Sciences
+A5078806635,Larissa Bispo Alves Roncen,Medicine
+A5078878604,Cicera Eduarda Almeida de Souza,Social Sciences
+A5079380663,Cristiana Brasil Maia,Energy
+A5079385618,Araújo Angélica Rodrigues de,Medicine
+A5079416878,Fernanda de Andrade Dias,Medicine
+A5079840842,Luana Mathias Souto,Social Sciences
+A5079924307,Bruno Gonçalves da Silva,Medicine
+A5080050181,Raquel Sampaio Jacob,Environmental Science
+A5080206362,Leonardo Ramos,"Economics, Econometrics and Finance"
+A5080212809,Maria Ilma de Souza Côrtes,Dentistry
+A5080707401,Alexandre Magno Alves Diniz,Social Sciences
+A5080751452,Alice Werneck Massote,Health Professions
+A5080808742,Carlos Dias Maia,Decision Sciences
+A5080831138,Joana Natalia Cella,Health Professions
+A5080867023,Charles da Silva Honório,Engineering
+A5081242744,Júlia Cordeiro Maia,Medicine
+A5081639004,Raíssa Teixeira Pinto,Medicine
+A5081711424,Carlos Magno Santos Clemente,Environmental Science
+A5081995525,Gislene de Oliveira Torres,Arts and Humanities
+A5082017850,Regina Célia Lopes Valadares,Dentistry
+A5082114940,Rodrigo Sobral,Medicine
+A5082322278,Marlusa Gosling,"Business, Management and Accounting"
+A5082328180,Amaro Ilídio Vespasiano Silva,Arts and Humanities
+A5082640420,Ana Cláudia Castello Branco Rena,Psychology
+A5082844692,Elielson Rodrigues da Silva,Medicine
+A5082882238,Eneiva Carla Carvalho Celeghini,Medicine
+A5082892282,Sábado Nicolau Girardi,Health Professions
+A5082900278,Martinho Campolina Rebello Horta,Dentistry
+A5083342993,Bruna Emanuely Sousa Ribeiro,Medicine
+A5083450278,Tuany Cristina Pereira,Medicine
+A5083476798,Gustavo Zampier dos Santos Lima,Physics and Astronomy
+A5084040106,Alyson Fernandes de Oliveira,Social Sciences
+A5084050613,Sarah de Oliveira Rodrigues,Agricultural and Biological Sciences
+A5084072659,Gisele Pires de Mendonça Dantas,"Agricultural and Biological Sciences;Biochemistry, Genetics and Molecular Biology"
+A5084099720,Lara Cunha Lopes,Physics and Astronomy
+A5084213121,Sarah Carvalho Félix,Social Sciences
+A5084347262,Clarisa Giaccaglia,Social Sciences
+A5084596619,Raisa Ozaneide Oliveira da Silva,Medicine
+A5084991500,Aíla Luzia Pinheiro de Andrade,Arts and Humanities
+A5085005878,Lluís Ferrer,Medicine
+A5085078136,Silvia Elizate Monteiro,Medicine
+A5085158194,P. C. R. Tabanez,Medicine
+A5085184778,Luanne Mara Rodrigues de Matos,Dentistry
+A5085209585,Marco Túlio Magalhães Souza,Agricultural and Biological Sciences
+A5085403735,Bianca Araújo Fontenele,Medicine
+A5085411362,Carlos Eduardo Carrusca Vieira,Medicine
+A5085565201,Adonias Gomes Pereira,Engineering
+A5085568624,Letícia Vulcano de Andrada,Social Sciences
+A5085733026,Maria Teresinha de Oliveira Fernandes,Medicine
+A5085881190,Natália Gennari da Costa Marques,Medicine
+A5085919599,Stayce Moreira Fortunato,Medicine
+A5086197411,Dauro Douglas Oliveira,Dentistry
+A5086352531,Natália Bianca Vales Bhering,Medicine
+A5087114302,Yolanda Lage Silva,"Biochemistry, Genetics and Molecular Biology"
+A5087546596,Wallace Freitas de Oliveira,Dentistry
+A5087709313,Thiago Bento Linhares,Engineering
+A5087788049,Elisa Guimarães de Figueiredo,Medicine
+A5087809602,Isabela Neves Rôças,Dentistry
+A5087893304,Augusto Afonso Guerra,Medicine
+A5088068742,Murilo de Miranda Cardoso,Medicine
+A5088112460,Zélia Myriam Assis Peixoto,Medicine
+A5088210795,Mariângela Leal Cherchiglia,Health Professions
+A5088271310,Frederico S. Neves,Agricultural and Biological Sciences
+A5088278352,Pedro Américo Almeida Magalhães Júnior,Engineering
+A5088315707,Rafaella Gomes Caldas,Medicine
+A5088692347,Fernando Rafael da Cunha Chagas,Medicine
+A5088725502,Thalyta Carollina Santos Serra,Medicine
+A5088916350,Tatiana Cristina Lopes Vieira,Medicine
+A5089058673,Vera Veiga França,Social Sciences
+A5089199711,Mariana Flores Vianna,Medicine
+A5089214281,Gustavo de Cristófaro Almeida,Dentistry
+A5089223693,Maria Isabel de Oliveira e Britto Villalobos,Arts and Humanities
+A5089286854,Gabriel Fernandes Pimenta,Social Sciences
+A5089501824,Nathália Gonçalves da Silva Lima,"Biochemistry, Genetics and Molecular Biology"
+A5089963767,Thaís Helen Costa Teixeira,Medicine
+A5090039417,Simone Botelho,Medicine
+A5090173006,Ananda Caroline Vasques Dantas Coelho,Social Sciences
+A5090210719,Patrícia Almeida-Santos,Agricultural and Biological Sciences
+A5090569230,Deisiane Oliveira Souto,Medicine
+A5090650725,Annelise Júlio-Costa,Medicine
+A5090729438,Caio Buono Torres,Arts and Humanities
+A5090898487,Nilson Cristino da Cruz,Engineering
+A5091085962,Bernardo Silva de Seixas,Social Sciences
+A5091152275,Luiza Castorino Melo,Medicine
+A5091273514,Julienne Borges Fujii,Medicine
+A5091447912,Mônica Cunha-Barros,Agricultural and Biological Sciences
+A5091477907,João Peixoto,Social Sciences
+A5091800909,Guirino Dinis José Nhatave,Social Sciences
+A5091964231,Julia Vieira Raad,Environmental Science
+A5091964232,Julia Xavier Lazarini,Environmental Science
+A5092049768,Letícia Morena Carvalho de Almeida,Dentistry
+A5092540320,Thiago Maio Bandeira,Medicine
+A5092549620,Laura Mayumi Gramiscelli Kuwada,Medicine
+A5092669110,Bruno Petrocchi,Decision Sciences
+A5092669153,ARTHUR KHALIL ASSIS TUM,Medicine
+A5092669154,Laís Duarte Cabral,Medicine
+A5092806695,Jaqueline Oliveira Neves Legatti,Dentistry
+A5093069425,Kleberson de Oliveira,Medicine
+A5093671829,Aline Soares de Santana Dutra,Medicine
+A5093797821,Jonathan Eduardo Custódio Maquiné,Medicine
+A5093855059,Munique Costa Latavanha,Medicine
+A5093870031,Valéria Medeiros Claudino,Dentistry
+A5094072822,Maria Teresa Vasconcelos de Melo Pontes,Dentistry
+A5094138012,Marcela Cançado Sarkis,Engineering
+A5094138013,Fernanda Oliveira Prado de Vasconcelos,Engineering
+A5094138014,Clara Fraga Elias,Engineering
+A5094175770,Luiza Bocorny Bolognesi,Psychology
+A5094212453,Saulo Amador Bonfim,Energy
+A5096644876,Mariana Ferreira Torres,Environmental Science
+A5096739413,Marcos Vinicius Ideriha Jardim,Neuroscience
+A5098137110,Vitória Alagia Ripari,Medicine
+A5098489630,Paulo Roberto Gitirana de Araújo Guerra,"Business, Management and Accounting"
+A5098694666,Leandro Aparecido Irrazabal,Medicine
+A5098992964,Natália Cristina de Assis,Social Sciences
+A5099001865,Rebeka Lara Meneghette,Medicine
+A5099031721,Gabriela Gazzoni,Medicine
+A5099985199,Danielle Félix Maciel,"Biochemistry, Genetics and Molecular Biology"
+A5099985200,Larissa Ribeiro Gomes,"Biochemistry, Genetics and Molecular Biology"
+A5099985201,Renzo Santos Abrahão,"Biochemistry, Genetics and Molecular Biology"
+A5100343311,Chunyu Liu,Health Professions
+A5100656935,Brian Godman,Medicine
+A5101001825,Cristiana Carvalho,Health Professions
+A5101203540,Raissa de Abreu Costa Araújo,Medicine
+A5101291202,Andréa Dias Lustosa Cabral,Nursing
+A5101300572,Geovana Baier dos Santos,Medicine
+A5101441706,Jacqueline de Oliveira Moreira,Psychology
+A5101470117,Joana Darc da Silva Pinto,Engineering
+A5101616146,Carmen Couto Ribeiro,Engineering
+A5101646601,Anurag Agarwal,Social Sciences
+A5101755508,Monique Van Sluys,Agricultural and Biological Sciences
+A5101833722,Pedro Américo Almeida Magalhães,Mathematics
+A5102541183,Laura Santos Aguiar,Social Sciences
+A5102555553,Leiko Martins Alves,Medicine
+A5102603905,Alysson Gonçalves Esteves,Nursing
+A5102613083,Arthur Felipe Pereira Silva,Medicine
+A5102613269,Leonardo Adalto Lopes de Almeida,Medicine
+A5102631283,Paula Venâncio Sousa,Psychology
+A5102666619,Francisca Flávia Campos Silveira,Medicine
+A5102882040,Tiago Braga,Dentistry
+A5102917293,Edwin Cardoso Neves,Dentistry
+A5103230487,Frank Ferreira Silveira,Dentistry
+A5103275453,Bruna Gabriele Oliveira,Arts and Humanities
+A5103505412,Luciana Auxiliadora de Paula Vasconcelos,Psychology
+A5103968419,Marcella Aguilar Campos Silva,Arts and Humanities
+A5103972618,Izabela Ângela Santos,Engineering
+A5104106776,Fábio dos Santos Nogueira,Medicine
+A5104178848,Marco Paulo Soares Gomes,Decision Sciences
+A5104190811,Lavínia de Fátima Baldim Martins,Medicine
+A5104238822,Erick Jeppesen Souto,Medicine
+A5104238823,Daniele Souza Teixeira,Medicine
+A5104244619,Iane Louise Martins Silva,Medicine
+A5104302538,Samira Khadija Caldas da Silva,Medicine
+A5104606071,Catharine Vaz Gontijo,Immunology and Microbiology
+A5104829918,Bárbara Cirilo de Sá Coscia,Medicine
+A5104855505,Thayná Campagnolo Muniz,Medicine
+A5106707084,Lídia Di Bella Castro Rabelo,Medicine
+A5108608121,Paulo Franco Taitson,Engineering;Medicine
+A5108740070,Ian Xavier Paschoeto dos Santos,Medicine
+A5108782098,Rodrigo Corrêa Teixeira,Environmental Science;Social Sciences
+A5108893278,Karen Maciel Costa,Nursing
+A5108926768,Ana Daniele Queiroz de Medeiros,Neuroscience
+A5109006936,Luiz Fernando Lucas Ferreira,Veterinary
+A5109444612,Roberta Pereira Spala Neves,Nursing
+A5109476695,F. B. S. Telles,Agricultural and Biological Sciences
+A5109626156,José Davi de Almeida Lira,Psychology
+A5109673599,Thais de Souza Freire,Nursing
+A5109683372,Thalita Boa Sorte Santos,Medicine
+A5109747923,Ana Beatriz Francione Teixeira,Immunology and Microbiology
+A5109970133,Vânia Noronha,Social Sciences
+A5110354652,Marciel Pereira de Macedo,Dentistry
+A5110697592,Mariana Ferreira Bicalho,Arts and Humanities
+A5111016800,Mariana Libero Abdalla,Computer Science
+A5111130518,Ana Carolina Gamarano Rocha De Souza,Medicine
+A5111180300,Jordana Pinheiro,Social Sciences
+A5111464262,Josmária Lima Ribeiro de Oliveira,"Business, Management and Accounting"
+A5111728183,Flavio Jean do Rosário,Nursing
+A5112323399,Alysson Lucas Vieira,Engineering
+A5112365561,Carlos Henrique Cabral Viana,Medicine
+A5112365693,Vânia Eloísa de Araújo,Medicine
+A5112607383,María Luiza Siqueira Batista,Social Sciences
+A5112720965,Mariano Rezende Pereira,Medicine
+A5112866783,Letícia Lima Leão,Medicine
+A5113114094,Matheus Henrique de Freitas Souza,Medicine
+A5113298242,Neldy Gollub Gomes Miranda,Medicine
+A5113309389,Mariana Alves Vasconcelos dos Santos,Medicine
+A5113935624,Danilo Alvin de Paiva Gonçalves Filho,Medicine
+A5114083245,Patrícia Nunes Neves,Medicine
+A5114124267,Amilly Vívian Santos Silva Fonseca,Medicine
+A5114194877,Ana Beatriz Tavares Santana,Medicine
+A5114220752,WESLEY BARBOSA SOUZA,Neuroscience
+A5116076233,Otávio Françóia Margon,Medicine
+A5116142659,Gustavo Alexandre Romero Tenório,Psychology
+A5122181942,Lucas de Alvarenga Gontijo,Arts and Humanities
+A5122508950,Leonardo Nemer Caldeira Brant,Social Sciences
+A5122697550,Marina Noronha Kraiser,"Business, Management and Accounting"
+A5146714359,Vanderlaine Amaral de Menezes,Agricultural and Biological Sciences
+A5161999661,Maria Mariana Rodrigues Aguilar,Dentistry
+A5162019714,Victor Barbosa Coelho,Dentistry
